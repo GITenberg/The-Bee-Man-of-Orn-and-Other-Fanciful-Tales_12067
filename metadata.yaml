@@ -1,0 +1,33 @@
+_repo: The-Bee-Man-of-Orn-and-Other-Fanciful-Tales_12067
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Francis Richard
+    - Stockton, Frank R. (Frank Richard)
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The bee-man of Orn -- The griffin and the minor canon -- Old Pipes
+  and the dryad -- The queen's museum -- Christmas before last; or, the fruit of the
+  fragile palm -- Prince Hassak's march -- The battle of the third cousins -- The
+  banished king -- The philopena.
+title: The Bee-Man of Orn and Other Fanciful Tales
+url: http://www.gutenberg.org/ebooks/12067
